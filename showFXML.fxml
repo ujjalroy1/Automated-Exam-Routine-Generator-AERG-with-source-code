@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" fx:id="ouputpane" prefHeight="504.0" prefWidth="973.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="aerg.ShowFXMLController">
+   <children>
+      <TextArea fx:id="outputarea" editable="false" layoutY="84.0" prefHeight="427.0" prefWidth="973.0">
+         <font>
+            <Font size="18.0" />
+         </font></TextArea>
+      <ImageView fitHeight="81.0" fitWidth="57.0" layoutX="359.0" layoutY="8.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@HSTU-logo.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

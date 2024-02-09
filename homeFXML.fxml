@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="515.0" prefWidth="826.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="aerg.HomeFXMLController">
+   <children>
+      <TextArea prefHeight="515.0" prefWidth="826.0" text="The HSTU Automated Exam Routine Generator is a specialized software&#10;designed to streamline the process of creating optimal exam schedules &#10;for Hajee Mohammad Danesh Science and Technology University. Users&#10;input relevant information, and the software utilizes algorithms to &#10;efficiently generate and store well-organized routines. This user-friendly &#10;tool simplifies the task of creating and managing exam schedules for &#10;HSTU.&#10;&#10;Power&#10;1.Simplifying the complex process through automated algorithms.&#10;2.It must be generate a optimized routine&#10;&#10;Limitation&#10;1. A limitation of AERG is its occasional inability to generate the expected &#10;routine, possibly due to unforeseen constraints or some input data.">
+         <font>
+            <Font size="25.0" />
+         </font>
+      </TextArea>
+   </children>
+</AnchorPane>

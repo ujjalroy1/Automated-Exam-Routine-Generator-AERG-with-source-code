@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="512.0" prefWidth="737.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/19" fx:controller="aerg.ContactFXMLController">
+   <children>
+      <TextArea editable="false" layoutX="-1.0" layoutY="-2.0" prefHeight="512.0" prefWidth="779.0" text="For Any Query Contact With Us&#10;Email : aerg@gmail.com&#10;website:https://www.aerg.com">
+         <font>
+            <Font size="29.0" />
+         </font>
+      </TextArea>
+   </children>
+</AnchorPane>
